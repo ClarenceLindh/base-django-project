@@ -2,7 +2,7 @@
 
 This is a base project to start a new React project.
 
-To start a new project use [base-react-project]([https://github.com/ClarenceLindh/base-django-project](https://github.com/ClarenceLindh/base-react-project)) for the frontend.
+To start a new project use [base-react-project](https://github.com/ClarenceLindh/base-react-project) for the frontend.
 
 ## Available Scripts
 
