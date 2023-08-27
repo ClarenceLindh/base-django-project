@@ -1,0 +1,36 @@
+# Python/Django related
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# # Django migrations
+# **/migrations/
+
+# Node.js related
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.pid
+*.seed
+*.pid.lock
+
+# React/TypeScript related
+dist/
+build/
+*.log
+*.tsbuildinfo
+.DS_Store
+
+# Visual Studio Code related
+.vscode/
+
+# Virtual environments
+.env
+venv/
+env/
